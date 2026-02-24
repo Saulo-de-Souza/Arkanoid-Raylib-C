@@ -75,7 +75,7 @@ Game loop uses:
 - raylib
 - CMake (optional)
 - Make (optional)
-- Emscripten (for Web build)
+- Emscripten (Already included in the project)
 
 ---
 
@@ -87,9 +87,9 @@ Game loop uses:
 
 ## Build (WebAssembly)
 
-    build.bat web
+    build.bat web (for windows)
 
-The project exports to buil/web and runs in the browser.
+The project exports to buil/web.
 
 ---
 
@@ -125,3 +125,9 @@ This project demonstrates:
 - Collision resolution with penetration correction
 - Reflection vector math
 - Deterministic simulation step
+
+---
+
+### Screenshot
+
+![screenshot 1](screenshots/1.png)
