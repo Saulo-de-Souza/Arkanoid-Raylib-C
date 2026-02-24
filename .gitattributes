@@ -1,0 +1,11 @@
+screenshots export-ignore
+assets export-ignore
+include export-ignore
+libt export-ignore
+src export-ignore
+.clang-format export-ignore
+.gitignore export-ignore
+build.bat export-ignore
+CMakeLists.txt export-ignore
+icon.rc export-ignore
+Makefile export-ignore
